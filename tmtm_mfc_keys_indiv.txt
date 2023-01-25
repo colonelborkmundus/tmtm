@@ -1,0 +1,10 @@
+# "The More, The Marriott" Dictionary Project 
+# (Gotta catch 'em all, but make it Mifare!)
+# Last updated: 25 January 2023
+# by colonelborkmundus
+
+# Note: This file contains unique static keys found per card in the master file
+# and has been pruned to eliminate duplicates for easier integration into your
+# own projects or user dictionaries. However, please double-check and make sure
+# they haven't already been merged into those projects! If not, congrats! 
+# You're a cool kid. :)

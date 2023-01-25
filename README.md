@@ -14,6 +14,9 @@ Please consider me the weird dictionary person, if you will.
 ## Experimental f0 Builds
 Work in progress. This is mainly a dictionary project, after all. Check out the cool kid forks.
 
+## Holy crap, how many cards do you have in the horde?
+A lot. I have a lot. It's nice to have friends who travel for work.
+
 ## Got cards?
 Please feel free to reach out to me and we'll go from there.
 

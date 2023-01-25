@@ -1,0 +1,263 @@
+# "The More, The Marriott" Dictionary Project 
+# (Gotta catch 'em all, but make it Mifare!)
+# Last updated: 25 January 2023
+# by colonelborkmundus
+
+# Note: This file contains duplicate keys and notes individual keys per card.
+# You may use this data to contribute to existing projects but please check 
+# and see if I haven't added unique keys from this project already! This is
+# a continuing work in progress with cards that I periodically rerun for
+# error checking and new keys, and is updated as I find the time. <3
+# For the clean, unique keys for easier integrating into projects, please
+# see tmtm_mfc_keys_indiv.txt, and rename as necessary. Cards have been
+# given ID tags based off of when I initially handled them (for this, that is.)
+# This is for my own sanity and for easier reference if any researchers have
+# questions. Please, my crops are dying. 
+
+#################################
+# 20230125-1                    #
+# 1k - Marriott                 #
+# NXP Mifare Classic MFC1C14_x  #
+# "hard"                        #
+#-------------------------------#
+
+# Key A 
+43012BD9EB87
+2A2C13CC242A
+FFFFFFFFFFFF
+5C8FF9990DA2
+
+# Key B 
+FFFFFFFFFFFF
+D01AFEEB890A
+4B791BEA7BCC
+
+[+] -----+-----+--------------+---+--------------+----
+[+]  Sec | Blk | key A        |res| key B        |res
+[+] -----+-----+--------------+---+--------------+----
+[+]  000 | 003 | 43012BD9EB87 | D | FFFFFFFFFFFF | D
+[+]  001 | 007 | 2A2C13CC242A | D | FFFFFFFFFFFF | D
+[+]  002 | 011 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  003 | 015 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  004 | 019 | 43012BD9EB87 | D | FFFFFFFFFFFF | D
+[+]  005 | 023 | 43012BD9EB87 | D | FFFFFFFFFFFF | D
+[+]  006 | 027 | 43012BD9EB87 | D | FFFFFFFFFFFF | D
+[+]  007 | 031 | 43012BD9EB87 | D | FFFFFFFFFFFF | D
+[+]  008 | 035 | 43012BD9EB87 | D | FFFFFFFFFFFF | D
+[+]  009 | 039 | 43012BD9EB87 | D | FFFFFFFFFFFF | D
+[+]  010 | 043 | 43012BD9EB87 | D | FFFFFFFFFFFF | D
+[+]  011 | 047 | 43012BD9EB87 | D | FFFFFFFFFFFF | D
+[+]  012 | 051 | 43012BD9EB87 | D | FFFFFFFFFFFF | D
+[+]  013 | 055 | 43012BD9EB87 | D | FFFFFFFFFFFF | D
+[+]  014 | 059 | 43012BD9EB87 | D | FFFFFFFFFFFF | D
+[+]  015 | 063 | 43012BD9EB87 | D | FFFFFFFFFFFF | D
+[+]  016 | 067 | 5C8FF9990DA2 | D | D01AFEEB890A | D
+[+]  017 | 071 | 5C8FF9990DA2 | D | 4B791BEA7BCC | U
+[+] -----+-----+--------------+---+--------------+----
+
+#################################
+# 20230125-2                    #
+# 1k - Marriott                 #
+# NXP Mifare Classic MFC1C14_x  #
+# "hard"                        #
+#-------------------------------#
+
+# Key A 
+3119A70628EB
+2A2C13CC242A
+FFFFFFFFFFFF
+5C8FF9990DA2
+
+# Key B 
+FFFFFFFFFFFF
+D01AFEEB890A
+4B791BEA7BCC
+
+[+] -----+-----+--------------+---+--------------+----
+[+]  Sec | Blk | key A        |res| key B        |res
+[+] -----+-----+--------------+---+--------------+----
+[+]  000 | 003 | 3119A70628EB | D | FFFFFFFFFFFF | D
+[+]  001 | 007 | 2A2C13CC242A | D | FFFFFFFFFFFF | D
+[+]  002 | 011 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  003 | 015 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  004 | 019 | 3119A70628EB | D | FFFFFFFFFFFF | D
+[+]  005 | 023 | 3119A70628EB | D | FFFFFFFFFFFF | D
+[+]  006 | 027 | 3119A70628EB | D | FFFFFFFFFFFF | D
+[+]  007 | 031 | 3119A70628EB | D | FFFFFFFFFFFF | D
+[+]  008 | 035 | 3119A70628EB | D | FFFFFFFFFFFF | D
+[+]  009 | 039 | 3119A70628EB | D | FFFFFFFFFFFF | D
+[+]  010 | 043 | 3119A70628EB | D | FFFFFFFFFFFF | D
+[+]  011 | 047 | 3119A70628EB | D | FFFFFFFFFFFF | D
+[+]  012 | 051 | 3119A70628EB | D | FFFFFFFFFFFF | D
+[+]  013 | 055 | 3119A70628EB | D | FFFFFFFFFFFF | D
+[+]  014 | 059 | 3119A70628EB | D | FFFFFFFFFFFF | D
+[+]  015 | 063 | 3119A70628EB | D | FFFFFFFFFFFF | D
+[+]  016 | 067 | 5C8FF9990DA2 | D | D01AFEEB890A | D
+[+]  017 | 071 | 5C8FF9990DA2 | D | 4B791BEA7BCC | U
+[+] -----+-----+--------------+---+--------------+----
+
+#################################
+# 20230125-3                    #
+# 1k - Marriott                 #
+# NXP Mifare Classic MFC1C14_x  #
+# "hard"                        #
+#-------------------------------#
+
+# Key A 
+23C9FDD9A366
+2A2C13CC242A
+FFFFFFFFFFFF
+5C8FF9990DA2
+
+# Key B 
+FFFFFFFFFFFF
+D01AFEEB890A
+4B791BEA7BCC
+
+[+] -----+-----+--------------+---+--------------+----
+[+]  Sec | Blk | key A        |res| key B        |res
+[+] -----+-----+--------------+---+--------------+----
+[+]  000 | 003 | 23C9FDD9A366 | D | FFFFFFFFFFFF | D
+[+]  001 | 007 | 2A2C13CC242A | D | FFFFFFFFFFFF | D
+[+]  002 | 011 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  003 | 015 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  004 | 019 | 23C9FDD9A366 | D | FFFFFFFFFFFF | D
+[+]  005 | 023 | 23C9FDD9A366 | D | FFFFFFFFFFFF | D
+[+]  006 | 027 | 23C9FDD9A366 | D | FFFFFFFFFFFF | D
+[+]  007 | 031 | 23C9FDD9A366 | D | FFFFFFFFFFFF | D
+[+]  008 | 035 | 23C9FDD9A366 | D | FFFFFFFFFFFF | D
+[+]  009 | 039 | 23C9FDD9A366 | D | FFFFFFFFFFFF | D
+[+]  010 | 043 | 23C9FDD9A366 | D | FFFFFFFFFFFF | D
+[+]  011 | 047 | 23C9FDD9A366 | D | FFFFFFFFFFFF | D
+[+]  012 | 051 | 23C9FDD9A366 | D | FFFFFFFFFFFF | D
+[+]  013 | 055 | 23C9FDD9A366 | D | FFFFFFFFFFFF | D
+[+]  014 | 059 | 23C9FDD9A366 | D | FFFFFFFFFFFF | D
+[+]  015 | 063 | 23C9FDD9A366 | D | FFFFFFFFFFFF | D
+[+]  016 | 067 | 5C8FF9990DA2 | D | D01AFEEB890A | D
+[+]  017 | 071 | 5C8FF9990DA2 | D | 4B791BEA7BCC | U
+[+] -----+-----+--------------+---+--------------+----
+
+#################################
+# 20230125-4                    #
+# 1k - Marriott                 #
+# NXP Mifare Classic MFC1C14_x  #
+# "hard"                        #
+#-------------------------------#
+
+# Key A 
+7B4DFC6D6525
+2A2C13CC242A
+FFFFFFFFFFFF
+5C8FF9990DA2
+
+# Key B 
+FFFFFFFFFFFF
+D01AFEEB890A
+4B791BEA7BCC
+
+[+] -----+-----+--------------+---+--------------+----
+[+]  Sec | Blk | key A        |res| key B        |res
+[+] -----+-----+--------------+---+--------------+----
+[+]  000 | 003 | 7B4DFC6D6525 | D | FFFFFFFFFFFF | D
+[+]  001 | 007 | 2A2C13CC242A | D | FFFFFFFFFFFF | D
+[+]  002 | 011 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  003 | 015 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  004 | 019 | 7B4DFC6D6525 | D | FFFFFFFFFFFF | D
+[+]  005 | 023 | 7B4DFC6D6525 | D | FFFFFFFFFFFF | D
+[+]  006 | 027 | 7B4DFC6D6525 | D | FFFFFFFFFFFF | D
+[+]  007 | 031 | 7B4DFC6D6525 | D | FFFFFFFFFFFF | D
+[+]  008 | 035 | 7B4DFC6D6525 | D | FFFFFFFFFFFF | D
+[+]  009 | 039 | 7B4DFC6D6525 | D | FFFFFFFFFFFF | D
+[+]  010 | 043 | 7B4DFC6D6525 | D | FFFFFFFFFFFF | D
+[+]  011 | 047 | 7B4DFC6D6525 | D | FFFFFFFFFFFF | D
+[+]  012 | 051 | 7B4DFC6D6525 | D | FFFFFFFFFFFF | D
+[+]  013 | 055 | 7B4DFC6D6525 | D | FFFFFFFFFFFF | D
+[+]  014 | 059 | 7B4DFC6D6525 | D | FFFFFFFFFFFF | D
+[+]  015 | 063 | 7B4DFC6D6525 | D | FFFFFFFFFFFF | D
+[+]  016 | 067 | 5C8FF9990DA2 | D | D01AFEEB890A | D
+[+]  017 | 071 | 5C8FF9990DA2 | D | 4B791BEA7BCC | U
+[+] -----+-----+--------------+---+--------------+----
+
+#################################
+# 20230125-5                    #
+# 1k - Marriott                 #
+# NXP Mifare Classic MFC1C14_x  #
+# "hard"                        #
+#-------------------------------#
+
+# Key A 
+1330824CD356
+2A2C13CC242A
+FFFFFFFFFFFF
+5C8FF9990DA2
+
+# Key B 
+FFFFFFFFFFFF
+D01AFEEB890A
+4B791BEA7BCC
+
+[+] -----+-----+--------------+---+--------------+----
+[+]  Sec | Blk | key A        |res| key B        |res
+[+] -----+-----+--------------+---+--------------+----
+[+]  000 | 003 | 1330824CD356 | D | FFFFFFFFFFFF | D
+[+]  001 | 007 | 2A2C13CC242A | D | FFFFFFFFFFFF | D
+[+]  002 | 011 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  003 | 015 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  004 | 019 | 1330824CD356 | D | FFFFFFFFFFFF | D
+[+]  005 | 023 | 1330824CD356 | D | FFFFFFFFFFFF | D
+[+]  006 | 027 | 1330824CD356 | D | FFFFFFFFFFFF | D
+[+]  007 | 031 | 1330824CD356 | D | FFFFFFFFFFFF | D
+[+]  008 | 035 | 1330824CD356 | D | FFFFFFFFFFFF | D
+[+]  009 | 039 | 1330824CD356 | D | FFFFFFFFFFFF | D
+[+]  010 | 043 | 1330824CD356 | D | FFFFFFFFFFFF | D
+[+]  011 | 047 | 1330824CD356 | D | FFFFFFFFFFFF | D
+[+]  012 | 051 | 1330824CD356 | D | FFFFFFFFFFFF | D
+[+]  013 | 055 | 1330824CD356 | D | FFFFFFFFFFFF | D
+[+]  014 | 059 | 1330824CD356 | D | FFFFFFFFFFFF | D
+[+]  015 | 063 | 1330824CD356 | D | FFFFFFFFFFFF | D
+[+]  016 | 067 | 5C8FF9990DA2 | D | D01AFEEB890A | D
+[+]  017 | 071 | 5C8FF9990DA2 | D | 4B791BEA7BCC | U
+[+] -----+-----+--------------+---+--------------+----
+
+#################################
+# 20230125-6                    #
+# 1k - Marriott                 #
+# NXP Mifare Classic MFC1C14_x  #
+# "hard"                        #
+#-------------------------------#
+
+# Key A 
+30AAD6A711EF
+2A2C13CC242A
+FFFFFFFFFFFF
+5C8FF9990DA2
+
+# Key B
+FFFFFFFFFFFF
+D01AFEEB890A
+4B791BEA7BCC
+
+[+] -----+-----+--------------+---+--------------+----
+[+]  Sec | Blk | key A        |res| key B        |res
+[+] -----+-----+--------------+---+--------------+----
+[+]  000 | 003 | 30AAD6A711EF | D | FFFFFFFFFFFF | D
+[+]  001 | 007 | 2A2C13CC242A | D | FFFFFFFFFFFF | D
+[+]  002 | 011 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  003 | 015 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  004 | 019 | 30AAD6A711EF | D | FFFFFFFFFFFF | D
+[+]  005 | 023 | 30AAD6A711EF | D | FFFFFFFFFFFF | D
+[+]  006 | 027 | 30AAD6A711EF | D | FFFFFFFFFFFF | D
+[+]  007 | 031 | 30AAD6A711EF | D | FFFFFFFFFFFF | D
+[+]  008 | 035 | 30AAD6A711EF | D | FFFFFFFFFFFF | D
+[+]  009 | 039 | 30AAD6A711EF | D | FFFFFFFFFFFF | D
+[+]  010 | 043 | 30AAD6A711EF | D | FFFFFFFFFFFF | D
+[+]  011 | 047 | 30AAD6A711EF | D | FFFFFFFFFFFF | D
+[+]  012 | 051 | 30AAD6A711EF | D | FFFFFFFFFFFF | D
+[+]  013 | 055 | 30AAD6A711EF | D | FFFFFFFFFFFF | D
+[+]  014 | 059 | 30AAD6A711EF | D | FFFFFFFFFFFF | D
+[+]  015 | 063 | 30AAD6A711EF | D | FFFFFFFFFFFF | D
+[+]  016 | 067 | 5C8FF9990DA2 | D | D01AFEEB890A | D
+[+]  017 | 071 | 5C8FF9990DA2 | D | 4B791BEA7BCC | U
+[+] -----+-----+--------------+---+--------------+----
+
+# Note: These were individual cards within the same hotel system. #
