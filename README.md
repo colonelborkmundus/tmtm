@@ -11,6 +11,9 @@ It recently came to my attention that there are "bloated" keys in, at minimum, t
 
 Please consider me the weird dictionary person, if you will.
 
+## Experimental f0 Builds
+Work in progress. This is mainly a dictionary project, after all. Check out the cool kid forks.
+
 ## Got cards?
 Please feel free to reach out to me and we'll go from there.
 
