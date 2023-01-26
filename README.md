@@ -3,6 +3,10 @@ The More, The Marriott Dictionary Project: Gotta catch 'em all, but make it Mifa
 
 Usual disclaimer: This is an independent research project, my employer has nothing to do with this etc etc, don't do anything illegal, I'm not your mom.
 
+I don't know what I'm doing more than half the time, so maybe someone ~~smarter~~ more capable than me can take this data and, I dunno, besides adding to the dictionary files out there, help improve what's already out there? Something something orgs choosing convenience over security something something.
+
+Thoughts, suggestions, ways to organize this better, anything you would like me to pull from the horde -- please let me know. I am very dumb. I see the tag flag as Ultralight and I go "lol nope i'm not doing that, i'm not even level 5 yet". Sharing is caring!
+
 ## What this includes
 * Masterlist of all static keys found with TMTM keycard horde, as detailed as possible for research purposes with as much information as we could meaningfully (remember to) include.
 * Dict files in their current form that have been recently submitted to various projects. Also please free to yoink them from my forks, otherwise they'll show up in the repos proper eventually.
