@@ -14,23 +14,15 @@
 # This is for my own sanity and for easier reference if any researchers have
 # questions. Please, my crops are dying. 
 
+# Table reference (pm3 results):
+#  D:Dictionary / S:darkSide / U:User / R:Reused / N:Nested / H:Hardnested / C:statiCnested / A:keyA  
+
 #################################
 # 20230125-1                    #
-# 1k - Marriott                 #
+# Marriott                      #
 # NXP Mifare Classic MFC1C14_x  #
 # "hard"                        #
 #-------------------------------#
-
-# Key A 
-43012BD9EB87
-2A2C13CC242A
-FFFFFFFFFFFF
-5C8FF9990DA2
-
-# Key B 
-FFFFFFFFFFFF
-D01AFEEB890A
-4B791BEA7BCC
 
 [+] -----+-----+--------------+---+--------------+----
 [+]  Sec | Blk | key A        |res| key B        |res
@@ -57,21 +49,10 @@ D01AFEEB890A
 
 #################################
 # 20230125-2                    #
-# 1k - Marriott                 #
+# Marriott                      #
 # NXP Mifare Classic MFC1C14_x  #
 # "hard"                        #
 #-------------------------------#
-
-# Key A 
-3119A70628EB
-2A2C13CC242A
-FFFFFFFFFFFF
-5C8FF9990DA2
-
-# Key B 
-FFFFFFFFFFFF
-D01AFEEB890A
-4B791BEA7BCC
 
 [+] -----+-----+--------------+---+--------------+----
 [+]  Sec | Blk | key A        |res| key B        |res
@@ -98,21 +79,10 @@ D01AFEEB890A
 
 #################################
 # 20230125-3                    #
-# 1k - Marriott                 #
+# Marriott                      #
 # NXP Mifare Classic MFC1C14_x  #
 # "hard"                        #
 #-------------------------------#
-
-# Key A 
-23C9FDD9A366
-2A2C13CC242A
-FFFFFFFFFFFF
-5C8FF9990DA2
-
-# Key B 
-FFFFFFFFFFFF
-D01AFEEB890A
-4B791BEA7BCC
 
 [+] -----+-----+--------------+---+--------------+----
 [+]  Sec | Blk | key A        |res| key B        |res
@@ -139,21 +109,10 @@ D01AFEEB890A
 
 #################################
 # 20230125-4                    #
-# 1k - Marriott                 #
+# Marriott                      #
 # NXP Mifare Classic MFC1C14_x  #
 # "hard"                        #
 #-------------------------------#
-
-# Key A 
-7B4DFC6D6525
-2A2C13CC242A
-FFFFFFFFFFFF
-5C8FF9990DA2
-
-# Key B 
-FFFFFFFFFFFF
-D01AFEEB890A
-4B791BEA7BCC
 
 [+] -----+-----+--------------+---+--------------+----
 [+]  Sec | Blk | key A        |res| key B        |res
@@ -180,21 +139,10 @@ D01AFEEB890A
 
 #################################
 # 20230125-5                    #
-# 1k - Marriott                 #
+# Marriott                      #
 # NXP Mifare Classic MFC1C14_x  #
 # "hard"                        #
 #-------------------------------#
-
-# Key A 
-1330824CD356
-2A2C13CC242A
-FFFFFFFFFFFF
-5C8FF9990DA2
-
-# Key B 
-FFFFFFFFFFFF
-D01AFEEB890A
-4B791BEA7BCC
 
 [+] -----+-----+--------------+---+--------------+----
 [+]  Sec | Blk | key A        |res| key B        |res
@@ -221,21 +169,10 @@ D01AFEEB890A
 
 #################################
 # 20230125-6                    #
-# 1k - Marriott                 #
+# Marriott                      #
 # NXP Mifare Classic MFC1C14_x  #
 # "hard"                        #
 #-------------------------------#
-
-# Key A 
-30AAD6A711EF
-2A2C13CC242A
-FFFFFFFFFFFF
-5C8FF9990DA2
-
-# Key B
-FFFFFFFFFFFF
-D01AFEEB890A
-4B791BEA7BCC
 
 [+] -----+-----+--------------+---+--------------+----
 [+]  Sec | Blk | key A        |res| key B        |res
@@ -261,3 +198,257 @@ D01AFEEB890A
 [+] -----+-----+--------------+---+--------------+----
 
 # Note: These were individual cards within the same hotel system. #
+
+#################################
+# 20230125-7                    #
+# Fairfield Inn & Suites        #
+# MIFARE Classic 1K             #
+# "weak"                        #
+#-------------------------------#
+
+[+] -----+-----+--------------+---+--------------+----
+[+]  Sec | Blk | key A        |res| key B        |res
+[+] -----+-----+--------------+---+--------------+----
+[+]  000 | 003 | 7B3B589A5525 | D | FFFFFFFFFFFF | D
+[+]  001 | 007 | 2A2C13CC242A | D | FFFFFFFFFFFF | D
+[+]  002 | 011 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  003 | 015 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  004 | 019 | 7B3B589A5525 | D | FFFFFFFFFFFF | D
+[+]  005 | 023 | 7B3B589A5525 | D | FFFFFFFFFFFF | D
+[+]  006 | 027 | 7B3B589A5525 | D | FFFFFFFFFFFF | D
+[+]  007 | 031 | 7B3B589A5525 | D | FFFFFFFFFFFF | D
+[+]  008 | 035 | 7B3B589A5525 | D | FFFFFFFFFFFF | D
+[+]  009 | 039 | 7B3B589A5525 | D | FFFFFFFFFFFF | D
+[+]  010 | 043 | 7B3B589A5525 | D | FFFFFFFFFFFF | D
+[+]  011 | 047 | 7B3B589A5525 | D | FFFFFFFFFFFF | D
+[+]  012 | 051 | 7B3B589A5525 | D | FFFFFFFFFFFF | D
+[+]  013 | 055 | 7B3B589A5525 | D | FFFFFFFFFFFF | D
+[+]  014 | 059 | 7B3B589A5525 | D | FFFFFFFFFFFF | D
+[+]  015 | 063 | 7B3B589A5525 | D | FFFFFFFFFFFF | D
+[+] -----+-----+--------------+---+--------------+----
+
+#################################
+# 20230125-7                    #
+# Moxy Hotels                   #
+# MIFARE Classic 1K             #
+# "weak"                        #
+#-------------------------------#
+
+[+] -----+-----+--------------+---+--------------+----
+[+]  Sec | Blk | key A        |res| key B        |res
+[+] -----+-----+--------------+---+--------------+----
+[+]  000 | 003 | 9EE3896C4530 | D | FFFFFFFFFFFF | D
+[+]  001 | 007 | 2A2C13CC242A | D | FFFFFFFFFFFF | D
+[+]  002 | 011 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  003 | 015 | 9EE3896C4530 | D | FFFFFFFFFFFF | D
+[+]  004 | 019 | 9EE3896C4530 | D | FFFFFFFFFFFF | D
+[+]  005 | 023 | 9EE3896C4530 | D | FFFFFFFFFFFF | D
+[+]  006 | 027 | 9EE3896C4530 | D | FFFFFFFFFFFF | D
+[+]  007 | 031 | 9EE3896C4530 | D | FFFFFFFFFFFF | D
+[+]  008 | 035 | 9EE3896C4530 | D | FFFFFFFFFFFF | D
+[+]  009 | 039 | 9EE3896C4530 | D | FFFFFFFFFFFF | D
+[+]  010 | 043 | 9EE3896C4530 | D | FFFFFFFFFFFF | D
+[+]  011 | 047 | 9EE3896C4530 | D | FFFFFFFFFFFF | D
+[+]  012 | 051 | 9EE3896C4530 | D | FFFFFFFFFFFF | D
+[+]  013 | 055 | 9EE3896C4530 | D | FFFFFFFFFFFF | D
+[+]  014 | 059 | 9EE3896C4530 | D | FFFFFFFFFFFF | D
+[+]  015 | 063 | 9EE3896C4530 | D | FFFFFFFFFFFF | D
+[+] -----+-----+--------------+---+--------------+----
+
+#################################
+# 20230125-8                    #
+# Moxy Hotels                   #
+# MIFARE Classic 1K             #
+# "weak"                        #
+#-------------------------------#
+
+[+] -----+-----+--------------+---+--------------+----
+[+]  Sec | Blk | key A        |res| key B        |res
+[+] -----+-----+--------------+---+--------------+----
+[+]  000 | 003 | 20C166C00ADB | D | FFFFFFFFFFFF | D
+[+]  001 | 007 | 2A2C13CC242A | D | FFFFFFFFFFFF | D
+[+]  002 | 011 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  003 | 015 | 20C166C00ADB | D | FFFFFFFFFFFF | D
+[+]  004 | 019 | 20C166C00ADB | D | FFFFFFFFFFFF | D
+[+]  005 | 023 | 20C166C00ADB | D | FFFFFFFFFFFF | D
+[+]  006 | 027 | 20C166C00ADB | D | FFFFFFFFFFFF | D
+[+]  007 | 031 | 20C166C00ADB | D | FFFFFFFFFFFF | D
+[+]  008 | 035 | 20C166C00ADB | D | FFFFFFFFFFFF | D
+[+]  009 | 039 | 20C166C00ADB | D | FFFFFFFFFFFF | D
+[+]  010 | 043 | 20C166C00ADB | D | FFFFFFFFFFFF | D
+[+]  011 | 047 | 20C166C00ADB | D | FFFFFFFFFFFF | D
+[+]  012 | 051 | 20C166C00ADB | D | FFFFFFFFFFFF | D
+[+]  013 | 055 | 20C166C00ADB | D | FFFFFFFFFFFF | D
+[+]  014 | 059 | 20C166C00ADB | D | FFFFFFFFFFFF | D
+[+]  015 | 063 | 20C166C00ADB | D | FFFFFFFFFFFF | D
+[+] -----+-----+--------------+---+--------------+----
+
+#################################
+# 20230125-9                    #
+# Westin                        #
+# MIFARE Classic 1K             #
+# "weak"                        #
+#-------------------------------#
+
+[+] -----+-----+--------------+---+--------------+----
+[+]  Sec | Blk | key A        |res| key B        |res
+[+] -----+-----+--------------+---+--------------+----
+[+]  000 | 003 | A0A1A2A3A4A5 | D | B578F38A5C61 | D
+[+]  001 | 007 | 7D0A1C277C05 | D | 2058580A941F | D
+[+]  002 | 011 | A0A1A2A3A4A5 | D | 0000014B5C31 | D
+[+]  003 | 015 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  004 | 019 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  005 | 023 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  006 | 027 | FFFFFFFFFFFF | D | 8C29F8320617 | D
+[+]  007 | 031 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  008 | 035 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  009 | 039 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  010 | 043 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  011 | 047 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  012 | 051 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  013 | 055 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  014 | 059 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  015 | 063 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+] -----+-----+--------------+---+--------------+----
+
+#################################
+# 20230125-10                   #
+# Westin                        #
+# MIFARE Classic 1K             #
+# "weak"                        #
+#-------------------------------#
+
+[+] -----+-----+--------------+---+--------------+----
+[+]  Sec | Blk | key A        |res| key B        |res
+[+] -----+-----+--------------+---+--------------+----
+[+]  000 | 003 | A0A1A2A3A4A5 | D | B578F38A5C61 | D
+[+]  001 | 007 | C40964215509 | D | D44CFC178460 | D
+[+]  002 | 011 | A0A1A2A3A4A5 | D | 0000014B5C31 | D
+[+]  003 | 015 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  004 | 019 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  005 | 023 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  006 | 027 | FFFFFFFFFFFF | D | 5697519A8F02 | D
+[+]  007 | 031 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  008 | 035 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  009 | 039 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  010 | 043 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  011 | 047 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  012 | 051 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  013 | 055 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  014 | 059 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  015 | 063 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+] -----+-----+--------------+---+--------------+----
+
+#################################
+# 20230125-11                   #
+# Westin                        #
+# MIFARE Classic 1K             #
+# "weak"                        #
+#-------------------------------#
+
+[+] -----+-----+--------------+---+--------------+----
+[+]  Sec | Blk | key A        |res| key B        |res
+[+] -----+-----+--------------+---+--------------+----
+[+]  000 | 003 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  001 | 007 | 8A19D40CF2B5 | D | 8A19D40CF2B5 | D
+[+]  002 | 011 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  003 | 015 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  004 | 019 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  005 | 023 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  006 | 027 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  007 | 031 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  008 | 035 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  009 | 039 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  010 | 043 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  011 | 047 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  012 | 051 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  013 | 055 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  014 | 059 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  015 | 063 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+] -----+-----+--------------+---+--------------+----
+
+#################################
+# 20230125-12                   #
+# AC Hotels Marriott            #
+# MIFARE Classic 1K             #
+# "hard"                        #
+#-------------------------------#
+
+[+] -----+-----+--------------+---+--------------+----
+[+]  Sec | Blk | key A        |res| key B        |res
+[+] -----+-----+--------------+---+--------------+----
+[+]  000 | 003 | 7B56B2B38725 | D | FFFFFFFFFFFF | D
+[+]  001 | 007 | 2A2C13CC242A | D | FFFFFFFFFFFF | D
+[+]  002 | 011 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  003 | 015 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  004 | 019 | 7B56B2B38725 | D | FFFFFFFFFFFF | D
+[+]  005 | 023 | 7B56B2B38725 | D | FFFFFFFFFFFF | D
+[+]  006 | 027 | 7B56B2B38725 | D | FFFFFFFFFFFF | D
+[+]  007 | 031 | 7B56B2B38725 | D | FFFFFFFFFFFF | D
+[+]  008 | 035 | 7B56B2B38725 | D | FFFFFFFFFFFF | D
+[+]  009 | 039 | 7B56B2B38725 | D | FFFFFFFFFFFF | D
+[+]  010 | 043 | 7B56B2B38725 | D | FFFFFFFFFFFF | D
+[+]  011 | 047 | 7B56B2B38725 | D | FFFFFFFFFFFF | D
+[+]  012 | 051 | 7B56B2B38725 | D | FFFFFFFFFFFF | D
+[+]  013 | 055 | 7B56B2B38725 | D | FFFFFFFFFFFF | D
+[+]  014 | 059 | 7B56B2B38725 | D | FFFFFFFFFFFF | D
+[+]  015 | 063 | 7B56B2B38725 | D | FFFFFFFFFFFF | D
+[+]  016 | 067 | 5C8FF9990DA2 | D | D01AFEEB890A | D
+[+]  017 | 071 | 5C8FF9990DA2 | D | 4B791BEA7BCC | U
+[+] -----+-----+--------------+---+--------------+----
+
+#################################
+# 20230125-13                   #
+# AC Hotels Marriott            #
+# MIFARE Classic 1K             #
+# "hard"                        #
+#-------------------------------#
+
+[+] -----+-----+--------------+---+--------------+----
+[+]  Sec | Blk | key A        |res| key B        |res
+[+] -----+-----+--------------+---+--------------+----
+[+]  000 | 003 | 8EA8EC3F2320 | D | FFFFFFFFFFFF | D
+[+]  001 | 007 | 2A2C13CC242A | D | FFFFFFFFFFFF | D
+[+]  002 | 011 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  003 | 015 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  004 | 019 | 8EA8EC3F2320 | D | FFFFFFFFFFFF | D
+[+]  005 | 023 | 8EA8EC3F2320 | D | FFFFFFFFFFFF | D
+[+]  006 | 027 | 8EA8EC3F2320 | D | FFFFFFFFFFFF | D
+[+]  007 | 031 | 8EA8EC3F2320 | D | FFFFFFFFFFFF | D
+[+]  008 | 035 | 8EA8EC3F2320 | D | FFFFFFFFFFFF | D
+[+]  009 | 039 | 8EA8EC3F2320 | D | FFFFFFFFFFFF | D
+[+]  010 | 043 | 8EA8EC3F2320 | D | FFFFFFFFFFFF | D
+[+]  011 | 047 | 8EA8EC3F2320 | D | FFFFFFFFFFFF | D
+[+]  012 | 051 | 8EA8EC3F2320 | D | FFFFFFFFFFFF | D
+[+]  013 | 055 | 8EA8EC3F2320 | D | FFFFFFFFFFFF | D
+[+]  014 | 059 | 8EA8EC3F2320 | D | FFFFFFFFFFFF | D
+[+]  015 | 063 | 8EA8EC3F2320 | D | FFFFFFFFFFFF | D
+[+] -----+-----+--------------+---+--------------+----
+
+#################################
+# 20230125-14                   #
+# Waldorf Astoria Chicago       #
+# MIFARE Classic 1K             #
+# "weak"                        #
+#-------------------------------#
+
+[+] -----+-----+--------------+---+--------------+----
+[+]  Sec | Blk | key A        |res| key B        |res
+[+] -----+-----+--------------+---+--------------+----
+[+]  000 | 003 | 011C6CF459E8 | D | FFFFFFFFFFFF | D
+[+]  001 | 007 | 2A2C13CC242A | D | FFFFFFFFFFFF | D
+[+]  002 | 011 | FFFFFFFFFFFF | D | FFFFFFFFFFFF | D
+[+]  003 | 015 | 011C6CF459E8 | D | FFFFFFFFFFFF | D
+[+]  004 | 019 | 011C6CF459E8 | D | FFFFFFFFFFFF | D
+[+]  005 | 023 | 011C6CF459E8 | D | FFFFFFFFFFFF | D
+[+]  006 | 027 | 011C6CF459E8 | D | FFFFFFFFFFFF | D
+[+]  007 | 031 | 011C6CF459E8 | D | FFFFFFFFFFFF | D
+[+]  008 | 035 | 011C6CF459E8 | D | FFFFFFFFFFFF | D
+[+]  009 | 039 | 011C6CF459E8 | D | FFFFFFFFFFFF | D
+[+]  010 | 043 | 011C6CF459E8 | D | FFFFFFFFFFFF | D
+[+]  011 | 047 | 011C6CF459E8 | D | FFFFFFFFFFFF | D
+[+]  012 | 051 | 011C6CF459E8 | D | FFFFFFFFFFFF | D
+[+]  013 | 055 | 011C6CF459E8 | D | FFFFFFFFFFFF | D
+[+]  014 | 059 | 011C6CF459E8 | D | FFFFFFFFFFFF | D
+[+]  015 | 063 | 011C6CF459E8 | D | FFFFFFFFFFFF | D
+[+] -----+-----+--------------+---+--------------+----
