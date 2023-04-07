@@ -28,6 +28,13 @@ Please feel free to reach out to me and we'll go from there.
 
 I recently was loaned a wristband from a hotel chain to look at. It read as Mifare 1k on my Flipper, and then Ultralight on the pm3 (interesting!). I'll accept your Flipper keyfiles but I prefer to see the physical keycards for The Horde (and will give them back, I already have such an agreement with one person in place).
 
+## Future plans
+~~head empty no thoughts~~
+
+I keep kicking around the idea of writing up a practical pentester's playbook for the Flipper Zero.
+
+I am being affectionately bullied by my partner, friend group, and various members of DC612 to eventually present on this and The Horde so idk expect better documentation in the future. I would like to be able to explain to my smarty pants PhD partner how cool this is without it all going past his head (which is still very funny to me).
+
 ## Suggestions for best practices
 * Formatting for readability (see: f0 stock firmware default dict for reference)
 * Include card type (1k and its classic siblings) in comment, the source (hotel system, transit, access card, other) , location (if known), or if unknown
