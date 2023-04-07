@@ -15,6 +15,8 @@ It recently came to my attention that there are "bloated" keys in, at minimum, t
 
 Please consider me the weird dictionary person, if you will.
 
+I _am_ working on this -- this repo just isn't as synced as I would like it to be. Please check out my PRs and/or forks to individual projects in the meantime. They're higher on my priority list. (Proxmark3, Flipper-Xtreme)
+
 ## Experimental f0 Builds
 Work in progress. This is mainly a dictionary project, after all. Check out the cool kid forks.
 
@@ -22,7 +24,9 @@ Work in progress. This is mainly a dictionary project, after all. Check out the 
 A lot. I have a lot. It's nice to have friends who travel for work.
 
 ## Got cards?
-Please feel free to reach out to me and we'll go from there.
+Please feel free to reach out to me and we'll go from there. 
+
+I recently was loaned a wristband from a hotel chain to look at. It read as Mifare 1k on my Flipper, and then Ultralight on the pm3 (interesting!). I'll accept your Flipper keyfiles but I prefer to see the physical keycards for The Horde (and will give them back, I already have such an agreement with one person in place).
 
 ## Suggestions for best practices
 * Formatting for readability (see: f0 stock firmware default dict for reference)

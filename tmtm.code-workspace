@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../proxmark3"
+		},
+		{
+			"path": "../flipper"
+		}
+	]
+}
