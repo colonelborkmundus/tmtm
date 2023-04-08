@@ -33,7 +33,7 @@ I recently was loaned a wristband from a hotel chain to look at. It read as Mifa
 
 I keep kicking around the idea of writing up a practical pentester's playbook for the Flipper Zero.
 
-There may or may not be a talk in the works, but I don't know what I'm doing more than half the time so idek.
+There may or may not be a talk in the works, but I don't know what I'm doing more than half the time so idek. I will revive the blog very soon.
 
 ## Considerations (but really a secondary disclaimer and some thoughts regarding ethics)
 Amazon just very recently put the banhammer on selling Flipper Zero devices through their platform. I believe the same is true for eBay as well. 
@@ -48,8 +48,8 @@ It is of my opinion that we should consider security with a holistic, comprehens
 
 ## Suggestions for best practices
 * Formatting for readability (see: f0 stock firmware default dict for reference)
-* Include card type (1k and its classic siblings) in comment, the source (hotel system, transit, access card, other) , location (if known), or if unknown
-* When submitting a PR to a project, please verify that your keys are, in fact, static and not dynamic. You will absolutely be asked this if submitting a PR to pm3. Be specific! Otherwise it's crap research.
+* Include card type (1k and its classic siblings) in comment, the source (hotel system, transit, access card, other) , location (if known), or if unknown. How this may or may not be useful, I suppose -- improving or observing security posture. Can go either way, like you do.
+* When submitting a PR to a project, please verify that your keys are, in fact, static and not dynamic. You will absolutely be asked this if submitting a PR to pm3. Be specific! Otherwise it's crap research. I've found that the F0 has a margin of error, so if you have the means, verify your data if you can because badges can get weird. Very cool, very fascinating from a researcher's experience.
 
 # Support my noodle habit, thanks
 * [Ko-fi](https://ko-fi.com/colonelborkmundus#)
