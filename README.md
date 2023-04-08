@@ -33,7 +33,18 @@ I recently was loaned a wristband from a hotel chain to look at. It read as Mifa
 
 I keep kicking around the idea of writing up a practical pentester's playbook for the Flipper Zero.
 
-I am being affectionately bullied by my partner, friend group, and various members of DC612 to eventually present on this and The Horde so idk expect better documentation in the future. I would like to be able to explain to my smarty pants PhD partner how cool this is without it all going past his head (which is still very funny to me).
+There may or may not be a talk in the works, but I don't know what I'm doing more than half the time so idek.
+
+## Considerations (but really a secondary disclaimer and some thoughts regarding ethics)
+Amazon just very recently put the banhammer on selling Flipper Zero devices through their platform. I believe the same is true for eBay as well. 
+
+Something that I've been grappling with while playing with these badges like a total weirdo as a researcher is the ethics of it all, because here's the thing -- fellow researchers and pentesters can make use of these findings and contributions, as well as bad actors. But we live in a world with an ever changing meta, to borrow competitive gamer speak, which in other terms, we'd call a constantly evolving threat landscape. The genie is already out of the bottle. I'm disclosing what I've found and making note of it in the hopes that vendors and the entities implementing these products improve their security posture. For all we know, maybe somebody has a better Mifare Pokedex than any of us that they're not sharing, and that should worry you.
+
+Any intrepid nerd with the right tools and dev boards could build their own Proxmark or similar if they were so inclined. 
+
+To be honest, I think it's great that the Flipper is restricted to the mainstream store. With great power comes great responsibility, or something like that. I don't know, my Spider-Man shirt is in the wash. 
+
+It is of my opinion that we should consider security with a holistic, comprehensive approach, and not with some dumb slapstick band-aid solution that'll work until the band-aid gets wet. Yeah I know that's a terrible metaphor but I don't really care. _Do better_.
 
 ## Suggestions for best practices
 * Formatting for readability (see: f0 stock firmware default dict for reference)
